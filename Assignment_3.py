@@ -23,7 +23,7 @@ else:
 #Task 2: Using the Math Module for Calculations
 # Program to calculate square root, natural log, and sine of a number
 
-'''import math
+import math
 
 # Taking user input
 num = float(input("Enter a number: "))
@@ -42,4 +42,3 @@ else:
     print("Logarithm", ":",  ln_val)
     print("Sine",":" ,  sine_val)
 
-'''
